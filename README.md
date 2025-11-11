@@ -65,12 +65,3 @@ This page allows users to enter property details and instantly get an accurate p
 | **AI Model** | Linear Regression / Random Forest |
 | **Visualization** | Chart.js |
 | **Version Control** | Git & GitHub |
-
----
-
-## ⚙️ Installation and Setup
-
-### Clone the Repository
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
